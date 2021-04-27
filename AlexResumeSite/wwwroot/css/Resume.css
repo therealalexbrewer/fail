@@ -1,0 +1,54 @@
+﻿@import url(//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css);
+@import url(//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+
+bg-img {
+    background: url(https://media-exp1.licdn.com/dms/image/C4E1BAQFC8ClltUyx1A/company-background_10000/0/1560183031176?e=2159024400&v=beta&t=XtLhTQYx1FxHk4Q4EDD2SKKelT3Zh9vJvmRc-wV6Tlg) no-repeat center center fixed;
+    /* Add the blur effect */
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+}
+
+body {
+    background: url(https://media-exp1.licdn.com/dms/image/C4E1BAQFC8ClltUyx1A/company-background_10000/0/1560183031176?e=2159024400&v=beta&t=XtLhTQYx1FxHk4Q4EDD2SKKelT3Zh9vJvmRc-wV6Tlg) no-repeat center center fixed;
+    background-color: forestgreen;
+}
+
+.container {
+    padding-top: 50px;
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+.img-responsive {
+    width: 150px;
+    height: 150px;
+}
+
+figcaption {
+    margin-top: 20px;
+}
+
+    figcaption > h3 {
+        font-weight: bolder;
+        font-size: xx-large;
+    }
+
+dt, dd {
+    margin-bottom: 5px;
+}
+
+.resume-photo {
+    width: 300px;
+    height: 300px;
+}
+
+.margin-bottom-50 {
+    margin-bottom:50px;
+}
