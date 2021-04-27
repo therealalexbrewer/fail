@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lovin Al\\Documents\\GitHub\\therealalexbrewer.github.io\\AlexResumeSite\\AlexResumeSite\\AlexResumeSite.csproj": {}
+    "C:\\Users\\Lovin Al\\Documents\\GitHub\\therealalexbrewer.github.io\\AlexResumeSite\\AlexResumeSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lovin Al\\Documents\\GitHub\\therealalexbrewer.github.io\\AlexResumeSite\\AlexResumeSite\\AlexResumeSite.csproj": {
+    "C:\\Users\\Lovin Al\\Documents\\GitHub\\therealalexbrewer.github.io\\AlexResumeSite\\AlexResumeSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lovin Al\\Documents\\GitHub\\therealalexbrewer.github.io\\AlexResumeSite\\AlexResumeSite\\AlexResumeSite.csproj",
+        "projectUniqueName": "C:\\Users\\Lovin Al\\Documents\\GitHub\\therealalexbrewer.github.io\\AlexResumeSite\\AlexResumeSite.csproj",
         "projectName": "AlexResumeSite",
-        "projectPath": "C:\\Users\\Lovin Al\\Documents\\GitHub\\therealalexbrewer.github.io\\AlexResumeSite\\AlexResumeSite\\AlexResumeSite.csproj",
+        "projectPath": "C:\\Users\\Lovin Al\\Documents\\GitHub\\therealalexbrewer.github.io\\AlexResumeSite\\AlexResumeSite.csproj",
         "packagesPath": "C:\\Users\\Lovin Al\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lovin Al\\Documents\\GitHub\\therealalexbrewer.github.io\\AlexResumeSite\\AlexResumeSite\\obj\\",
+        "outputPath": "C:\\Users\\Lovin Al\\Documents\\GitHub\\therealalexbrewer.github.io\\AlexResumeSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
